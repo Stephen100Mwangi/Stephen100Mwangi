@@ -29,7 +29,7 @@
 2 Open source Contributions
 
 ### 🤝 Let's Connect!
-- LinkedIn: https://www.linkedin.com/in/wahome-stephen-mwangi-786690268/
+- LinkedIn: https://www.linkedin.com/in/stephen-wahome-51b879316/
 - Twitter: https://x.com/Mwangi99084926?t=7ferShYeQLXn5e7OZTTW_Q&s=09
 - Email: mwangiwahome70@gmail.com
 - Portfolio: https://wahome-stephenportifolio.vercel.app/
